@@ -1,0 +1,4630 @@
+{
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "a",
+                            1.61,
+                            1.71
+                        ],
+                        [
+                            "new",
+                            1.71,
+                            1.94
+                        ],
+                        [
+                            "generation",
+                            1.94,
+                            2.61
+                        ],
+                        [
+                            "of",
+                            2.61,
+                            2.73
+                        ],
+                        [
+                            "Oscar",
+                            2.73,
+                            3.2
+                        ],
+                        [
+                            "Norse",
+                            3.2,
+                            3.71
+                        ],
+                        [
+                            "led",
+                            4.03,
+                            4.24
+                        ],
+                        [
+                            "by",
+                            4.24,
+                            4.4
+                        ],
+                        [
+                            "visionary",
+                            4.4,
+                            4.99
+                        ],
+                        [
+                            "success",
+                            4.99,
+                            5.46
+                        ],
+                        [
+                            "Steve",
+                            5.46,
+                            5.75
+                        ],
+                        [
+                            "Jobs",
+                            5.75,
+                            6.11
+                        ],
+                        [
+                            "and",
+                            6.11,
+                            6.22
+                        ],
+                        [
+                            "mark",
+                            6.22,
+                            6.46
+                        ],
+                        [
+                            "Zuckerberg",
+                            6.46,
+                            7.07
+                        ],
+                        [
+                            "challenges",
+                            7.37,
+                            7.95
+                        ],
+                        [
+                            "Jack",
+                            7.95,
+                            8.21
+                        ],
+                        [
+                            "Welch's",
+                            8.21,
+                            8.58
+                        ],
+                        [
+                            "style",
+                            8.58,
+                            8.97
+                        ],
+                        [
+                            "leadership",
+                            9.02,
+                            9.57
+                        ]
+                    ],
+                    "confidence": 0.772,
+                    "transcript": "a new generation of Oscar Norse led by visionary success Steve Jobs and mark Zuckerberg challenges Jack Welch's style leadership "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "the",
+                            10.87,
+                            10.93
+                        ],
+                        [
+                            "leading",
+                            10.93,
+                            11.22
+                        ],
+                        [
+                            "manufacturing",
+                            11.22,
+                            11.88
+                        ],
+                        [
+                            "giants",
+                            11.88,
+                            12.25
+                        ],
+                        [
+                            "of",
+                            12.25,
+                            12.35
+                        ],
+                        [
+                            "the",
+                            12.35,
+                            12.43
+                        ],
+                        [
+                            "nineteen",
+                            12.43,
+                            12.86
+                        ],
+                        [
+                            "eighties",
+                            12.86,
+                            13.22
+                        ],
+                        [
+                            "were",
+                            13.22,
+                            13.35
+                        ],
+                        [
+                            "able",
+                            13.35,
+                            13.61
+                        ],
+                        [
+                            "to",
+                            13.61,
+                            13.73
+                        ],
+                        [
+                            "succeed",
+                            13.73,
+                            14.25
+                        ],
+                        [
+                            "in",
+                            14.25,
+                            14.34
+                        ],
+                        [
+                            "markets",
+                            14.34,
+                            14.73
+                        ],
+                        [
+                            "all",
+                            14.73,
+                            14.99
+                        ],
+                        [
+                            "over",
+                            14.99,
+                            15.18
+                        ],
+                        [
+                            "the",
+                            15.18,
+                            15.28
+                        ],
+                        [
+                            "world",
+                            15.28,
+                            15.68
+                        ],
+                        [
+                            "by",
+                            16.09,
+                            16.22
+                        ],
+                        [
+                            "investing",
+                            16.22,
+                            16.68
+                        ],
+                        [
+                            "vast",
+                            16.68,
+                            17.09
+                        ],
+                        [
+                            "mass",
+                            17.09,
+                            17.42
+                        ],
+                        [
+                            "capital",
+                            17.42,
+                            17.94
+                        ],
+                        [
+                            "to",
+                            17.94,
+                            18.11
+                        ],
+                        [
+                            "constructing",
+                            18.11,
+                            18.7
+                        ],
+                        [
+                            "masses",
+                            18.7,
+                            19.07
+                        ],
+                        [
+                            "disabilities",
+                            19.07,
+                            19.67
+                        ],
+                        [
+                            "reduction",
+                            19.67,
+                            20.24
+                        ],
+                        [
+                            "in",
+                            20.24,
+                            20.3
+                        ],
+                        [
+                            "sales",
+                            20.3,
+                            20.82
+                        ],
+                        [
+                            "ever",
+                            21.1,
+                            21.37
+                        ],
+                        [
+                            "spying",
+                            21.37,
+                            21.8
+                        ],
+                        [
+                            "to",
+                            21.8,
+                            21.94
+                        ],
+                        [
+                            "Pierce",
+                            21.94,
+                            22.33
+                        ],
+                        [
+                            "industries",
+                            22.33,
+                            22.88
+                        ]
+                    ],
+                    "confidence": 0.835,
+                    "transcript": "the leading manufacturing giants of the nineteen eighties were able to succeed in markets all over the world by investing vast mass capital to constructing masses disabilities reduction in sales ever spying to Pierce industries "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "and",
+                            23.29,
+                            23.42
+                        ],
+                        [
+                            "simultaneously",
+                            23.42,
+                            24.2
+                        ],
+                        [
+                            "minimizing",
+                            24.2,
+                            24.74
+                        ],
+                        [
+                            "risk",
+                            24.74,
+                            25.09
+                        ],
+                        [
+                            "in",
+                            25.09,
+                            25.18
+                        ],
+                        [
+                            "maximizing",
+                            25.18,
+                            25.84
+                        ],
+                        [
+                            "profits",
+                            25.84,
+                            26.39
+                        ],
+                        [
+                            "by",
+                            26.65,
+                            26.77
+                        ],
+                        [
+                            "monopolizing",
+                            26.77,
+                            27.49
+                        ],
+                        [
+                            "key",
+                            27.49,
+                            27.71
+                        ],
+                        [
+                            "technologies",
+                            27.71,
+                            28.59
+                        ]
+                    ],
+                    "confidence": 0.897,
+                    "transcript": "and simultaneously minimizing risk in maximizing profits by monopolizing key technologies "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "product",
+                            30.2,
+                            30.62
+                        ],
+                        [
+                            "and",
+                            30.62,
+                            30.72
+                        ],
+                        [
+                            "market",
+                            30.72,
+                            31.06
+                        ],
+                        [
+                            "strategy",
+                            31.06,
+                            31.72
+                        ]
+                    ],
+                    "confidence": 0.952,
+                    "transcript": "product and market strategy "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "instead",
+                            32.47,
+                            32.79
+                        ],
+                        [
+                            "of",
+                            32.79,
+                            32.87
+                        ],
+                        [
+                            "striving",
+                            32.87,
+                            33.24
+                        ],
+                        [
+                            "to",
+                            33.24,
+                            33.36
+                        ],
+                        [
+                            "create",
+                            33.36,
+                            33.71
+                        ],
+                        [
+                            "a",
+                            33.71,
+                            33.77
+                        ],
+                        [
+                            "perfect",
+                            33.77,
+                            34.17
+                        ],
+                        [
+                            "product",
+                            34.17,
+                            34.65
+                        ],
+                        [
+                            "companies",
+                            34.79,
+                            35.27
+                        ],
+                        [
+                            "aim",
+                            35.27,
+                            35.43
+                        ],
+                        [
+                            "to",
+                            35.43,
+                            35.57
+                        ],
+                        [
+                            "enter",
+                            35.57,
+                            35.83
+                        ],
+                        [
+                            "new",
+                            35.83,
+                            35.99
+                        ],
+                        [
+                            "markets",
+                            35.99,
+                            36.4
+                        ],
+                        [
+                            "by",
+                            36.4,
+                            36.54
+                        ],
+                        [
+                            "creating",
+                            36.54,
+                            37.02
+                        ],
+                        [
+                            "a",
+                            37.02,
+                            37.09
+                        ],
+                        [
+                            "product",
+                            37.09,
+                            37.53
+                        ],
+                        [
+                            "which",
+                            37.53,
+                            37.71
+                        ],
+                        [
+                            "is",
+                            37.71,
+                            37.84
+                        ],
+                        [
+                            "good",
+                            37.84,
+                            38.04
+                        ],
+                        [
+                            "enough",
+                            38.04,
+                            38.28
+                        ],
+                        [
+                            "to",
+                            38.28,
+                            38.4
+                        ],
+                        [
+                            "sell",
+                            38.4,
+                            38.83
+                        ],
+                        [
+                            "and",
+                            39.01,
+                            39.15
+                        ],
+                        [
+                            "had",
+                            39.15,
+                            39.32
+                        ],
+                        [
+                            "enough",
+                            39.32,
+                            39.61
+                        ],
+                        [
+                            "points",
+                            39.61,
+                            39.89
+                        ],
+                        [
+                            "of",
+                            39.89,
+                            40
+                        ],
+                        [
+                            "difference",
+                            40,
+                            40.38
+                        ],
+                        [
+                            "to",
+                            40.38,
+                            40.48
+                        ],
+                        [
+                            "separate",
+                            40.48,
+                            40.87
+                        ],
+                        [
+                            "itself",
+                            40.87,
+                            41.2
+                        ],
+                        [
+                            "from",
+                            41.23,
+                            41.36
+                        ],
+                        [
+                            "the",
+                            41.36,
+                            41.44
+                        ],
+                        [
+                            "competition",
+                            41.44,
+                            42.13
+                        ]
+                    ],
+                    "confidence": 0.882,
+                    "transcript": "instead of striving to create a perfect product companies aim to enter new markets by creating a product which is good enough to sell and had enough points of difference to separate itself from the competition "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "companies",
+                            42.78,
+                            43.22
+                        ],
+                        [
+                            "constantly",
+                            43.22,
+                            43.77
+                        ],
+                        [
+                            "look",
+                            43.77,
+                            43.97
+                        ],
+                        [
+                            "for",
+                            43.97,
+                            44.09
+                        ],
+                        [
+                            "new",
+                            44.09,
+                            44.29
+                        ],
+                        [
+                            "openings",
+                            44.29,
+                            44.69
+                        ],
+                        [
+                            "by",
+                            44.69,
+                            44.85
+                        ],
+                        [
+                            "analyzing",
+                            44.85,
+                            45.44
+                        ],
+                        [
+                            "the",
+                            45.44,
+                            45.54
+                        ],
+                        [
+                            "marketing",
+                            45.54,
+                            45.99
+                        ],
+                        [
+                            "competition",
+                            45.99,
+                            46.63
+                        ]
+                    ],
+                    "confidence": 0.809,
+                    "transcript": "companies constantly look for new openings by analyzing the marketing competition "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "pricing",
+                            48.61,
+                            49.01
+                        ],
+                        [
+                            "stretch",
+                            49.01,
+                            49.58
+                        ]
+                    ],
+                    "confidence": 0.622,
+                    "transcript": "pricing stretch "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "companies",
+                            50.12,
+                            50.6
+                        ],
+                        [
+                            "price",
+                            50.6,
+                            50.89
+                        ],
+                        [
+                            "their",
+                            50.89,
+                            51.02
+                        ],
+                        [
+                            "products",
+                            51.02,
+                            51.43
+                        ],
+                        [
+                            "at",
+                            51.43,
+                            51.59
+                        ],
+                        [
+                            "levels",
+                            51.59,
+                            51.92
+                        ],
+                        [
+                            "that",
+                            51.92,
+                            52.08
+                        ],
+                        [
+                            "maximize",
+                            52.08,
+                            52.6
+                        ],
+                        [
+                            "profits",
+                            52.6,
+                            53.07
+                        ],
+                        [
+                            "by",
+                            53.07,
+                            53.24
+                        ],
+                        [
+                            "analyzing",
+                            53.24,
+                            53.84
+                        ],
+                        [
+                            "supply",
+                            53.84,
+                            54.22
+                        ],
+                        [
+                            "dementors",
+                            54.22,
+                            55.16
+                        ]
+                    ],
+                    "confidence": 0.892,
+                    "transcript": "companies price their products at levels that maximize profits by analyzing supply dementors "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "sales",
+                            57.87,
+                            58.23
+                        ],
+                        [
+                            "and",
+                            58.23,
+                            58.34
+                        ],
+                        [
+                            "marketing",
+                            58.34,
+                            58.71
+                        ],
+                        [
+                            "strategy",
+                            58.71,
+                            59.36
+                        ],
+                        [
+                            "in",
+                            59.77,
+                            59.89
+                        ],
+                        [
+                            "order",
+                            59.89,
+                            60.14
+                        ],
+                        [
+                            "to",
+                            60.17,
+                            60.28
+                        ],
+                        [
+                            "dominate",
+                            60.28,
+                            60.76
+                        ],
+                        [
+                            "distribution",
+                            60.76,
+                            61.39
+                        ],
+                        [
+                            "channels",
+                            61.39,
+                            61.87
+                        ],
+                        [
+                            "and",
+                            61.87,
+                            62.01
+                        ],
+                        [
+                            "customer",
+                            62.01,
+                            62.44
+                        ],
+                        [
+                            "contact",
+                            62.44,
+                            62.94
+                        ],
+                        [
+                            "points",
+                            62.94,
+                            63.38
+                        ],
+                        [
+                            "companies",
+                            63.65,
+                            64.14
+                        ],
+                        [
+                            "invested",
+                            64.14,
+                            64.59
+                        ],
+                        [
+                            "heavily",
+                            64.59,
+                            64.99
+                        ],
+                        [
+                            "on",
+                            64.99,
+                            65.14
+                        ],
+                        [
+                            "massive",
+                            65.14,
+                            65.54
+                        ],
+                        [
+                            "marketing",
+                            65.54,
+                            66.02
+                        ],
+                        [
+                            "and",
+                            66.02,
+                            66.14
+                        ],
+                        [
+                            "sales",
+                            66.14,
+                            66.47
+                        ],
+                        [
+                            "teams",
+                            66.47,
+                            66.89
+                        ],
+                        [
+                            "and",
+                            67.12,
+                            67.25
+                        ],
+                        [
+                            "regularly",
+                            67.25,
+                            67.79
+                        ],
+                        [
+                            "ran",
+                            67.79,
+                            68.07
+                        ],
+                        [
+                            "large",
+                            68.07,
+                            68.35
+                        ],
+                        [
+                            "scale",
+                            68.35,
+                            68.66
+                        ],
+                        [
+                            "marketing",
+                            68.66,
+                            69.13
+                        ],
+                        [
+                            "and",
+                            69.13,
+                            69.24
+                        ],
+                        [
+                            "promotion",
+                            69.24,
+                            69.72
+                        ],
+                        [
+                            "campaigns",
+                            69.72,
+                            70.49
+                        ]
+                    ],
+                    "confidence": 0.942,
+                    "transcript": "sales and marketing strategy in order to dominate distribution channels and customer contact points companies invested heavily on massive marketing and sales teams and regularly ran large scale marketing and promotion campaigns "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "manufacturing",
+                            71.57,
+                            72.25
+                        ],
+                        [
+                            "strategy",
+                            72.25,
+                            72.74
+                        ]
+                    ],
+                    "confidence": 0.584,
+                    "transcript": "manufacturing strategy "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "companies",
+                            73.59,
+                            73.99
+                        ],
+                        [
+                            "strive",
+                            73.99,
+                            74.27
+                        ],
+                        [
+                            "to",
+                            74.27,
+                            74.4
+                        ],
+                        [
+                            "secure",
+                            74.4,
+                            74.81
+                        ],
+                        [
+                            "lower",
+                            74.81,
+                            75.14
+                        ],
+                        [
+                            "manufacturing",
+                            75.14,
+                            75.79
+                        ],
+                        [
+                            "costs",
+                            75.79,
+                            76.12
+                        ],
+                        [
+                            "relative",
+                            76.12,
+                            76.56
+                        ],
+                        [
+                            "to",
+                            76.56,
+                            76.7
+                        ],
+                        [
+                            "those",
+                            76.7,
+                            77.05
+                        ],
+                        [
+                            "competitors",
+                            77.05,
+                            77.92
+                        ],
+                        [
+                            "three",
+                            78.18,
+                            78.35
+                        ],
+                        [
+                            "economies",
+                            78.35,
+                            78.9
+                        ],
+                        [
+                            "of",
+                            78.9,
+                            78.99
+                        ],
+                        [
+                            "scale",
+                            78.99,
+                            79.47
+                        ],
+                        [
+                            "by",
+                            79.65,
+                            79.74
+                        ],
+                        [
+                            "constructing",
+                            79.74,
+                            80.35
+                        ],
+                        [
+                            "masses",
+                            80.35,
+                            80.77
+                        ],
+                        [
+                            "manufacturing",
+                            80.77,
+                            81.41
+                        ],
+                        [
+                            "centers",
+                            81.41,
+                            81.83
+                        ],
+                        [
+                            "in",
+                            81.83,
+                            81.93
+                        ],
+                        [
+                            "purchasing",
+                            81.93,
+                            82.48
+                        ],
+                        [
+                            "rom",
+                            82.48,
+                            82.83
+                        ],
+                        [
+                            "to",
+                            82.83,
+                            83.21
+                        ],
+                        [
+                            "an",
+                            83.39,
+                            83.54
+                        ],
+                        [
+                            "extremely",
+                            83.54,
+                            84.08
+                        ],
+                        [
+                            "large",
+                            84.08,
+                            84.37
+                        ],
+                        [
+                            "quantities",
+                            84.37,
+                            85.16
+                        ]
+                    ],
+                    "confidence": 0.889,
+                    "transcript": "companies strive to secure lower manufacturing costs relative to those competitors three economies of scale by constructing masses manufacturing centers in purchasing rom to an extremely large quantities "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "cost",
+                            86.94,
+                            87.25
+                        ],
+                        [
+                            "strategy",
+                            87.25,
+                            87.87
+                        ],
+                        [
+                            "openness",
+                            88.31,
+                            88.77
+                        ],
+                        [
+                            "costly",
+                            88.77,
+                            89.29
+                        ],
+                        [
+                            "aim",
+                            89.29,
+                            89.52
+                        ],
+                        [
+                            "to",
+                            89.52,
+                            89.65
+                        ],
+                        [
+                            "cut",
+                            89.65,
+                            89.91
+                        ],
+                        [
+                            "costs",
+                            89.91,
+                            90.34
+                        ],
+                        [
+                            "by",
+                            90.34,
+                            90.5
+                        ],
+                        [
+                            "searching",
+                            90.5,
+                            90.89
+                        ],
+                        [
+                            "for",
+                            90.89,
+                            91.06
+                        ],
+                        [
+                            "new",
+                            91.06,
+                            91.28
+                        ],
+                        [
+                            "sources",
+                            91.28,
+                            91.72
+                        ],
+                        [
+                            "of",
+                            91.72,
+                            91.84
+                        ],
+                        [
+                            "cheap",
+                            91.84,
+                            92.14
+                        ],
+                        [
+                            "raw",
+                            92.14,
+                            92.29
+                        ],
+                        [
+                            "materials",
+                            92.29,
+                            93.03
+                        ],
+                        [
+                            "we",
+                            93.06,
+                            93.33
+                        ],
+                        [
+                            "manufacturing",
+                            93.33,
+                            94.06
+                        ],
+                        [
+                            "bases",
+                            94.06,
+                            94.47
+                        ],
+                        [
+                            "to",
+                            94.47,
+                            94.6
+                        ],
+                        [
+                            "countries",
+                            94.6,
+                            95.06
+                        ],
+                        [
+                            "with",
+                            95.06,
+                            95.17
+                        ],
+                        [
+                            "lower",
+                            95.2,
+                            95.47
+                        ],
+                        [
+                            "labor",
+                            95.47,
+                            95.75
+                        ],
+                        [
+                            "costs",
+                            95.75,
+                            96.27
+                        ],
+                        [
+                            "in",
+                            96.39,
+                            96.53
+                        ],
+                        [
+                            "restructuring",
+                            96.53,
+                            97.29
+                        ]
+                    ],
+                    "confidence": 0.794,
+                    "transcript": "cost strategy openness costly aim to cut costs by searching for new sources of cheap raw materials we manufacturing bases to countries with lower labor costs in restructuring "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "business",
+                            99.91,
+                            100.25
+                        ],
+                        [
+                            "trash",
+                            100.25,
+                            100.77
+                        ]
+                    ],
+                    "confidence": 0.516,
+                    "transcript": "business trash "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "companies",
+                            101.4,
+                            101.89
+                        ],
+                        [
+                            "first",
+                            101.89,
+                            102.19
+                        ],
+                        [
+                            "achieved",
+                            102.19,
+                            102.56
+                        ],
+                        [
+                            "great",
+                            102.56,
+                            102.8
+                        ],
+                        [
+                            "success",
+                            102.8,
+                            103.25
+                        ],
+                        [
+                            "with",
+                            103.25,
+                            103.37
+                        ],
+                        [
+                            "the",
+                            103.37,
+                            103.48
+                        ],
+                        [
+                            "company's",
+                            103.48,
+                            103.92
+                        ],
+                        [
+                            "core",
+                            103.92,
+                            104.21
+                        ],
+                        [
+                            "business",
+                            104.21,
+                            104.74
+                        ],
+                        [
+                            "and",
+                            104.77,
+                            104.92
+                        ],
+                        [
+                            "then",
+                            104.92,
+                            105.08
+                        ],
+                        [
+                            "diversified",
+                            105.08,
+                            105.79
+                        ],
+                        [
+                            "into",
+                            105.79,
+                            106.04
+                        ],
+                        [
+                            "other",
+                            106.07,
+                            106.33
+                        ],
+                        [
+                            "industries",
+                            106.33,
+                            106.86
+                        ],
+                        [
+                            "using",
+                            106.86,
+                            107.13
+                        ],
+                        [
+                            "the",
+                            107.13,
+                            107.22
+                        ],
+                        [
+                            "customer",
+                            107.22,
+                            107.63
+                        ],
+                        [
+                            "base",
+                            107.63,
+                            108.04
+                        ],
+                        [
+                            "distribution",
+                            108.25,
+                            108.85
+                        ],
+                        [
+                            "channels",
+                            108.85,
+                            109.36
+                        ],
+                        [
+                            "in",
+                            109.56,
+                            109.67
+                        ],
+                        [
+                            "business",
+                            109.67,
+                            110.07
+                        ],
+                        [
+                            "now",
+                            110.07,
+                            110.23
+                        ],
+                        [
+                            "have",
+                            110.23,
+                            110.52
+                        ],
+                        [
+                            "accumulated",
+                            110.55,
+                            111.11
+                        ],
+                        [
+                            "up",
+                            111.14,
+                            111.32
+                        ],
+                        [
+                            "until",
+                            111.32,
+                            111.59
+                        ],
+                        [
+                            "that",
+                            111.59,
+                            111.77
+                        ],
+                        [
+                            "point",
+                            111.77,
+                            112.17
+                        ]
+                    ],
+                    "confidence": 0.838,
+                    "transcript": "companies first achieved great success with the company's core business and then diversified into other industries using the customer base distribution channels in business now have accumulated up until that point "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "this",
+                            112.89,
+                            113.1
+                        ],
+                        [
+                            "resulted",
+                            113.1,
+                            113.6
+                        ],
+                        [
+                            "in",
+                            113.6,
+                            113.72
+                        ],
+                        [
+                            "risk",
+                            113.72,
+                            114.05
+                        ],
+                        [
+                            "that",
+                            114.1,
+                            114.3
+                        ],
+                        [
+                            "reciprocation",
+                            114.3,
+                            115.19
+                        ],
+                        [
+                            "profit",
+                            115.22,
+                            115.63
+                        ],
+                        [
+                            "maximization",
+                            115.63,
+                            116.47
+                        ]
+                    ],
+                    "confidence": 0.8,
+                    "transcript": "this resulted in risk that reciprocation profit maximization "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "business",
+                            118.67,
+                            119.13
+                        ],
+                        [
+                            "expansion",
+                            119.13,
+                            119.76
+                        ],
+                        [
+                            "strategy",
+                            119.76,
+                            120.46
+                        ]
+                    ],
+                    "confidence": 0.999,
+                    "transcript": "business expansion strategy "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "companies",
+                            121.15,
+                            121.63
+                        ],
+                        [
+                            "expanded",
+                            121.63,
+                            122.21
+                        ],
+                        [
+                            "the",
+                            122.21,
+                            122.31
+                        ],
+                        [
+                            "scale",
+                            122.31,
+                            122.71
+                        ],
+                        [
+                            "existing",
+                            122.74,
+                            123.29
+                        ],
+                        [
+                            "businesses",
+                            123.29,
+                            123.92
+                        ],
+                        [
+                            "and",
+                            123.95,
+                            124.07
+                        ],
+                        [
+                            "diverse",
+                            124.07,
+                            124.49
+                        ],
+                        [
+                            "fighting",
+                            124.49,
+                            124.86
+                        ],
+                        [
+                            "two",
+                            124.86,
+                            125.01
+                        ],
+                        [
+                            "new",
+                            125.01,
+                            125.22
+                        ],
+                        [
+                            "ones",
+                            125.22,
+                            125.58
+                        ],
+                        [
+                            "by",
+                            125.61,
+                            125.72
+                        ],
+                        [
+                            "actively",
+                            125.72,
+                            126.19
+                        ],
+                        [
+                            "seeking",
+                            126.19,
+                            126.66
+                        ],
+                        [
+                            "mergers",
+                            126.66,
+                            127.12
+                        ],
+                        [
+                            "and",
+                            127.12,
+                            127.24
+                        ],
+                        [
+                            "acquisitions",
+                            127.24,
+                            128.16
+                        ]
+                    ],
+                    "confidence": 0.912,
+                    "transcript": "companies expanded the scale existing businesses and diverse fighting two new ones by actively seeking mergers and acquisitions "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "constructing",
+                            130.14,
+                            130.65
+                        ],
+                        [
+                            "bears",
+                            130.65,
+                            131.07
+                        ],
+                        [
+                            "tension",
+                            131.07,
+                            131.62
+                        ],
+                        [
+                            "companies",
+                            132.13,
+                            132.55
+                        ],
+                        [
+                            "created",
+                            132.55,
+                            133
+                        ],
+                        [
+                            "technological",
+                            133,
+                            133.73
+                        ],
+                        [
+                            "barriers",
+                            133.73,
+                            134.19
+                        ],
+                        [
+                            "to",
+                            134.19,
+                            134.33
+                        ],
+                        [
+                            "entry",
+                            134.33,
+                            134.71
+                        ],
+                        [
+                            "by",
+                            134.71,
+                            134.87
+                        ],
+                        [
+                            "investing",
+                            134.87,
+                            135.4
+                        ],
+                        [
+                            "massive",
+                            135.4,
+                            135.83
+                        ],
+                        [
+                            "massive",
+                            135.83,
+                            136.25
+                        ],
+                        [
+                            "capital",
+                            136.25,
+                            136.76
+                        ],
+                        [
+                            "on",
+                            136.76,
+                            136.93
+                        ],
+                        [
+                            "research",
+                            136.93,
+                            137.37
+                        ],
+                        [
+                            "and",
+                            137.37,
+                            137.47
+                        ],
+                        [
+                            "development",
+                            137.47,
+                            138.02
+                        ],
+                        [
+                            "to",
+                            138.05,
+                            138.18
+                        ],
+                        [
+                            "develop",
+                            138.18,
+                            138.61
+                        ],
+                        [
+                            "core",
+                            138.61,
+                            138.87
+                        ],
+                        [
+                            "technologies",
+                            138.87,
+                            139.65
+                        ],
+                        [
+                            "there",
+                            139.91,
+                            140.14
+                        ],
+                        [
+                            "protecting",
+                            140.14,
+                            140.64
+                        ],
+                        [
+                            "these",
+                            140.64,
+                            140.81
+                        ],
+                        [
+                            "technologies",
+                            140.81,
+                            141.42
+                        ],
+                        [
+                            "from",
+                            141.42,
+                            141.58
+                        ],
+                        [
+                            "being",
+                            141.58,
+                            141.79
+                        ],
+                        [
+                            "used",
+                            141.79,
+                            142.16
+                        ],
+                        [
+                            "by",
+                            142.16,
+                            142.27
+                        ],
+                        [
+                            "competitors",
+                            142.27,
+                            142.96
+                        ],
+                        [
+                            "patenting",
+                            143.12,
+                            143.69
+                        ]
+                    ],
+                    "confidence": 0.804,
+                    "transcript": "constructing bears tension companies created technological barriers to entry by investing massive massive capital on research and development to develop core technologies there protecting these technologies from being used by competitors patenting "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "organizational",
+                            146.06,
+                            146.92
+                        ],
+                        [
+                            "strategy",
+                            146.92,
+                            147.54
+                        ]
+                    ],
+                    "confidence": 0.856,
+                    "transcript": "organizational strategy "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "securing",
+                            148.16,
+                            148.6
+                        ],
+                        [
+                            "large",
+                            148.6,
+                            148.89
+                        ],
+                        [
+                            "amounts",
+                            148.89,
+                            149.21
+                        ],
+                        [
+                            "of",
+                            149.21,
+                            149.28
+                        ],
+                        [
+                            "capital",
+                            149.28,
+                            149.72
+                        ],
+                        [
+                            "through",
+                            149.72,
+                            149.93
+                        ],
+                        [
+                            "the",
+                            149.93,
+                            150.05
+                        ],
+                        [
+                            "financial",
+                            150.05,
+                            150.58
+                        ],
+                        [
+                            "market",
+                            150.58,
+                            150.95
+                        ],
+                        [
+                            "is",
+                            150.95,
+                            151.07
+                        ],
+                        [
+                            "a",
+                            151.07,
+                            151.14
+                        ],
+                        [
+                            "critical",
+                            151.14,
+                            151.55
+                        ],
+                        [
+                            "factor",
+                            151.55,
+                            151.93
+                        ],
+                        [
+                            "in",
+                            151.93,
+                            152.02
+                        ],
+                        [
+                            "constructing",
+                            152.02,
+                            152.57
+                        ],
+                        [
+                            "large",
+                            152.57,
+                            152.88
+                        ],
+                        [
+                            "scale",
+                            152.88,
+                            153.19
+                        ],
+                        [
+                            "manufacturing",
+                            153.19,
+                            153.85
+                        ],
+                        [
+                            "facilities",
+                            153.85,
+                            154.54
+                        ],
+                        [
+                            "operating",
+                            154.76,
+                            155.3
+                        ],
+                        [
+                            "global",
+                            155.3,
+                            155.63
+                        ],
+                        [
+                            "marketing",
+                            155.63,
+                            156.12
+                        ],
+                        [
+                            "sales",
+                            156.15,
+                            156.4
+                        ],
+                        [
+                            "teams",
+                            156.4,
+                            156.82
+                        ],
+                        [
+                            "possibly",
+                            157.06,
+                            157.52
+                        ],
+                        [
+                            "promoting",
+                            157.52,
+                            157.97
+                        ],
+                        [
+                            "you",
+                            157.97,
+                            158.12
+                        ],
+                        [
+                            "mergers",
+                            158.12,
+                            158.62
+                        ],
+                        [
+                            "and",
+                            158.62,
+                            158.73
+                        ],
+                        [
+                            "acquisitions",
+                            158.73,
+                            159.5
+                        ],
+                        [
+                            "making",
+                            159.79,
+                            160.24
+                        ],
+                        [
+                            "massive",
+                            160.24,
+                            160.62
+                        ],
+                        [
+                            "investments",
+                            160.62,
+                            161.26
+                        ],
+                        [
+                            "in",
+                            161.26,
+                            161.36
+                        ],
+                        [
+                            "research",
+                            161.36,
+                            161.76
+                        ],
+                        [
+                            "and",
+                            161.76,
+                            161.86
+                        ],
+                        [
+                            "development",
+                            161.86,
+                            162.34
+                        ]
+                    ],
+                    "confidence": 0.775,
+                    "transcript": "securing large amounts of capital through the financial market is a critical factor in constructing large scale manufacturing facilities operating global marketing sales teams possibly promoting you mergers and acquisitions making massive investments in research and development "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "financially",
+                            163.04,
+                            163.57
+                        ],
+                        [
+                            "savvy",
+                            163.57,
+                            163.95
+                        ],
+                        [
+                            "executives",
+                            163.95,
+                            164.53
+                        ],
+                        [
+                            "consequat",
+                            164.53,
+                            165.06
+                        ],
+                        [
+                            "we",
+                            165.06,
+                            165.17
+                        ],
+                        [
+                            "dominated",
+                            165.17,
+                            165.73
+                        ],
+                        [
+                            "the",
+                            165.73,
+                            165.82
+                        ],
+                        [
+                            "corporate",
+                            165.82,
+                            166.27
+                        ],
+                        [
+                            "decision",
+                            166.27,
+                            166.69
+                        ],
+                        [
+                            "making",
+                            166.69,
+                            166.96
+                        ],
+                        [
+                            "process",
+                            166.96,
+                            167.36
+                        ]
+                    ],
+                    "confidence": 0.89,
+                    "transcript": "financially savvy executives consequat we dominated the corporate decision making process "
+                }
+            ],
+            "final": true
+        }
+    ],
+    "result_index": 0,
+    "speaker_labels": [
+        {
+            "from": 1.61,
+            "to": 1.71,
+            "speaker": 0,
+            "confidence": 0.41,
+            "final": false
+        },
+        {
+            "from": 1.71,
+            "to": 1.94,
+            "speaker": 0,
+            "confidence": 0.41,
+            "final": false
+        },
+        {
+            "from": 1.94,
+            "to": 2.61,
+            "speaker": 0,
+            "confidence": 0.41,
+            "final": false
+        },
+        {
+            "from": 2.61,
+            "to": 2.73,
+            "speaker": 0,
+            "confidence": 0.41,
+            "final": false
+        },
+        {
+            "from": 2.73,
+            "to": 3.2,
+            "speaker": 0,
+            "confidence": 0.41,
+            "final": false
+        },
+        {
+            "from": 3.2,
+            "to": 3.71,
+            "speaker": 0,
+            "confidence": 0.41,
+            "final": false
+        },
+        {
+            "from": 4.03,
+            "to": 4.24,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 4.24,
+            "to": 4.4,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 4.4,
+            "to": 4.99,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 4.99,
+            "to": 5.46,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 5.46,
+            "to": 5.75,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 5.75,
+            "to": 6.11,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 6.11,
+            "to": 6.22,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 6.22,
+            "to": 6.46,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 6.46,
+            "to": 7.07,
+            "speaker": 0,
+            "confidence": 0.567,
+            "final": false
+        },
+        {
+            "from": 7.37,
+            "to": 7.95,
+            "speaker": 0,
+            "confidence": 0.341,
+            "final": false
+        },
+        {
+            "from": 7.95,
+            "to": 8.21,
+            "speaker": 0,
+            "confidence": 0.341,
+            "final": false
+        },
+        {
+            "from": 8.21,
+            "to": 8.58,
+            "speaker": 0,
+            "confidence": 0.341,
+            "final": false
+        },
+        {
+            "from": 8.58,
+            "to": 8.97,
+            "speaker": 0,
+            "confidence": 0.341,
+            "final": false
+        },
+        {
+            "from": 9.02,
+            "to": 9.57,
+            "speaker": 0,
+            "confidence": 0.422,
+            "final": false
+        },
+        {
+            "from": 10.87,
+            "to": 10.93,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 10.93,
+            "to": 11.22,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 11.22,
+            "to": 11.88,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 11.88,
+            "to": 12.25,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 12.25,
+            "to": 12.35,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 12.35,
+            "to": 12.43,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 12.43,
+            "to": 12.86,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 12.86,
+            "to": 13.22,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 13.22,
+            "to": 13.35,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 13.35,
+            "to": 13.61,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 13.61,
+            "to": 13.73,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 13.73,
+            "to": 14.25,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 14.25,
+            "to": 14.34,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 14.34,
+            "to": 14.73,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 14.73,
+            "to": 14.99,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 14.99,
+            "to": 15.18,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 15.18,
+            "to": 15.28,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 15.28,
+            "to": 15.68,
+            "speaker": 0,
+            "confidence": 0.469,
+            "final": false
+        },
+        {
+            "from": 16.09,
+            "to": 16.22,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 16.22,
+            "to": 16.68,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 16.68,
+            "to": 17.09,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 17.09,
+            "to": 17.42,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 17.42,
+            "to": 17.94,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 17.94,
+            "to": 18.11,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 18.11,
+            "to": 18.7,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 18.7,
+            "to": 19.07,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 19.07,
+            "to": 19.67,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 19.67,
+            "to": 20.24,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 20.24,
+            "to": 20.3,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 20.3,
+            "to": 20.82,
+            "speaker": 0,
+            "confidence": 0.42,
+            "final": false
+        },
+        {
+            "from": 21.1,
+            "to": 21.37,
+            "speaker": 0,
+            "confidence": 0.351,
+            "final": false
+        },
+        {
+            "from": 21.37,
+            "to": 21.8,
+            "speaker": 0,
+            "confidence": 0.351,
+            "final": false
+        },
+        {
+            "from": 21.8,
+            "to": 21.94,
+            "speaker": 0,
+            "confidence": 0.351,
+            "final": false
+        },
+        {
+            "from": 21.94,
+            "to": 22.33,
+            "speaker": 0,
+            "confidence": 0.351,
+            "final": false
+        },
+        {
+            "from": 22.33,
+            "to": 22.88,
+            "speaker": 0,
+            "confidence": 0.351,
+            "final": false
+        },
+        {
+            "from": 23.29,
+            "to": 23.42,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 23.42,
+            "to": 24.2,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 24.2,
+            "to": 24.74,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 24.74,
+            "to": 25.09,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 25.09,
+            "to": 25.18,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 25.18,
+            "to": 25.84,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 25.84,
+            "to": 26.39,
+            "speaker": 0,
+            "confidence": 0.39,
+            "final": false
+        },
+        {
+            "from": 26.65,
+            "to": 26.77,
+            "speaker": 0,
+            "confidence": 0.4,
+            "final": false
+        },
+        {
+            "from": 26.77,
+            "to": 27.49,
+            "speaker": 0,
+            "confidence": 0.4,
+            "final": false
+        },
+        {
+            "from": 27.49,
+            "to": 27.71,
+            "speaker": 0,
+            "confidence": 0.4,
+            "final": false
+        },
+        {
+            "from": 27.71,
+            "to": 28.59,
+            "speaker": 0,
+            "confidence": 0.4,
+            "final": false
+        },
+        {
+            "from": 30.2,
+            "to": 30.62,
+            "speaker": 0,
+            "confidence": 0.478,
+            "final": false
+        },
+        {
+            "from": 30.62,
+            "to": 30.72,
+            "speaker": 0,
+            "confidence": 0.478,
+            "final": false
+        },
+        {
+            "from": 30.72,
+            "to": 31.06,
+            "speaker": 0,
+            "confidence": 0.478,
+            "final": false
+        },
+        {
+            "from": 31.06,
+            "to": 31.72,
+            "speaker": 0,
+            "confidence": 0.478,
+            "final": false
+        },
+        {
+            "from": 32.47,
+            "to": 32.79,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 32.79,
+            "to": 32.87,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 32.87,
+            "to": 33.24,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 33.24,
+            "to": 33.36,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 33.36,
+            "to": 33.71,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 33.71,
+            "to": 33.77,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 33.77,
+            "to": 34.17,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 34.17,
+            "to": 34.65,
+            "speaker": 0,
+            "confidence": 0.501,
+            "final": false
+        },
+        {
+            "from": 34.79,
+            "to": 35.27,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 35.27,
+            "to": 35.43,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 35.43,
+            "to": 35.57,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 35.57,
+            "to": 35.83,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 35.83,
+            "to": 35.99,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 35.99,
+            "to": 36.4,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 36.4,
+            "to": 36.54,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 36.54,
+            "to": 37.02,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 37.02,
+            "to": 37.09,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 37.09,
+            "to": 37.53,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 37.53,
+            "to": 37.71,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 37.71,
+            "to": 37.84,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 37.84,
+            "to": 38.04,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 38.04,
+            "to": 38.28,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 38.28,
+            "to": 38.4,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 38.4,
+            "to": 38.83,
+            "speaker": 0,
+            "confidence": 0.564,
+            "final": false
+        },
+        {
+            "from": 39.01,
+            "to": 39.15,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 39.15,
+            "to": 39.32,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 39.32,
+            "to": 39.61,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 39.61,
+            "to": 39.89,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 39.89,
+            "to": 40,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 40,
+            "to": 40.38,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 40.38,
+            "to": 40.48,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 40.48,
+            "to": 40.87,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 40.87,
+            "to": 41.2,
+            "speaker": 0,
+            "confidence": 0.546,
+            "final": false
+        },
+        {
+            "from": 41.23,
+            "to": 41.36,
+            "speaker": 0,
+            "confidence": 0.476,
+            "final": false
+        },
+        {
+            "from": 41.36,
+            "to": 41.44,
+            "speaker": 0,
+            "confidence": 0.476,
+            "final": false
+        },
+        {
+            "from": 41.44,
+            "to": 42.13,
+            "speaker": 0,
+            "confidence": 0.476,
+            "final": false
+        },
+        {
+            "from": 42.78,
+            "to": 43.22,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 43.22,
+            "to": 43.77,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 43.77,
+            "to": 43.97,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 43.97,
+            "to": 44.09,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 44.09,
+            "to": 44.29,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 44.29,
+            "to": 44.69,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 44.69,
+            "to": 44.85,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 44.85,
+            "to": 45.44,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 45.44,
+            "to": 45.54,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 45.54,
+            "to": 45.99,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 45.99,
+            "to": 46.63,
+            "speaker": 0,
+            "confidence": 0.489,
+            "final": false
+        },
+        {
+            "from": 48.61,
+            "to": 49.01,
+            "speaker": 0,
+            "confidence": 0.529,
+            "final": false
+        },
+        {
+            "from": 49.01,
+            "to": 49.58,
+            "speaker": 0,
+            "confidence": 0.529,
+            "final": false
+        },
+        {
+            "from": 50.12,
+            "to": 50.6,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 50.6,
+            "to": 50.89,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 50.89,
+            "to": 51.02,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 51.02,
+            "to": 51.43,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 51.43,
+            "to": 51.59,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 51.59,
+            "to": 51.92,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 51.92,
+            "to": 52.08,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 52.08,
+            "to": 52.6,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 52.6,
+            "to": 53.07,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 53.07,
+            "to": 53.24,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 53.24,
+            "to": 53.84,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 53.84,
+            "to": 54.22,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 54.22,
+            "to": 55.16,
+            "speaker": 0,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 57.87,
+            "to": 58.23,
+            "speaker": 0,
+            "confidence": 0.409,
+            "final": false
+        },
+        {
+            "from": 58.23,
+            "to": 58.34,
+            "speaker": 0,
+            "confidence": 0.409,
+            "final": false
+        },
+        {
+            "from": 58.34,
+            "to": 58.71,
+            "speaker": 0,
+            "confidence": 0.409,
+            "final": false
+        },
+        {
+            "from": 58.71,
+            "to": 59.36,
+            "speaker": 0,
+            "confidence": 0.409,
+            "final": false
+        },
+        {
+            "from": 59.77,
+            "to": 59.89,
+            "speaker": 2,
+            "confidence": 0.347,
+            "final": false
+        },
+        {
+            "from": 59.89,
+            "to": 60.14,
+            "speaker": 2,
+            "confidence": 0.347,
+            "final": false
+        },
+        {
+            "from": 60.17,
+            "to": 60.28,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 60.28,
+            "to": 60.76,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 60.76,
+            "to": 61.39,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 61.39,
+            "to": 61.87,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 61.87,
+            "to": 62.01,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 62.01,
+            "to": 62.44,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 62.44,
+            "to": 62.94,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 62.94,
+            "to": 63.38,
+            "speaker": 0,
+            "confidence": 0.499,
+            "final": false
+        },
+        {
+            "from": 63.65,
+            "to": 64.14,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 64.14,
+            "to": 64.59,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 64.59,
+            "to": 64.99,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 64.99,
+            "to": 65.14,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 65.14,
+            "to": 65.54,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 65.54,
+            "to": 66.02,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 66.02,
+            "to": 66.14,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 66.14,
+            "to": 66.47,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 66.47,
+            "to": 66.89,
+            "speaker": 0,
+            "confidence": 0.328,
+            "final": false
+        },
+        {
+            "from": 67.12,
+            "to": 67.25,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 67.25,
+            "to": 67.79,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 67.79,
+            "to": 68.07,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 68.07,
+            "to": 68.35,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 68.35,
+            "to": 68.66,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 68.66,
+            "to": 69.13,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 69.13,
+            "to": 69.24,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 69.24,
+            "to": 69.72,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 69.72,
+            "to": 70.49,
+            "speaker": 0,
+            "confidence": 0.334,
+            "final": false
+        },
+        {
+            "from": 71.57,
+            "to": 72.25,
+            "speaker": 0,
+            "confidence": 0.46,
+            "final": false
+        },
+        {
+            "from": 72.25,
+            "to": 72.74,
+            "speaker": 0,
+            "confidence": 0.46,
+            "final": false
+        },
+        {
+            "from": 73.59,
+            "to": 73.99,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 73.99,
+            "to": 74.27,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 74.27,
+            "to": 74.4,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 74.4,
+            "to": 74.81,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 74.81,
+            "to": 75.14,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 75.14,
+            "to": 75.79,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 75.79,
+            "to": 76.12,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 76.12,
+            "to": 76.56,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 76.56,
+            "to": 76.7,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 76.7,
+            "to": 77.05,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 77.05,
+            "to": 77.92,
+            "speaker": 0,
+            "confidence": 0.556,
+            "final": false
+        },
+        {
+            "from": 78.18,
+            "to": 78.35,
+            "speaker": 0,
+            "confidence": 0.451,
+            "final": false
+        },
+        {
+            "from": 78.35,
+            "to": 78.9,
+            "speaker": 0,
+            "confidence": 0.451,
+            "final": false
+        },
+        {
+            "from": 78.9,
+            "to": 78.99,
+            "speaker": 0,
+            "confidence": 0.451,
+            "final": false
+        },
+        {
+            "from": 78.99,
+            "to": 79.47,
+            "speaker": 0,
+            "confidence": 0.451,
+            "final": false
+        },
+        {
+            "from": 79.65,
+            "to": 79.74,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 79.74,
+            "to": 80.35,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 80.35,
+            "to": 80.77,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 80.77,
+            "to": 81.41,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 81.41,
+            "to": 81.83,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 81.83,
+            "to": 81.93,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 81.93,
+            "to": 82.48,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 82.48,
+            "to": 82.83,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 82.83,
+            "to": 83.21,
+            "speaker": 0,
+            "confidence": 0.453,
+            "final": false
+        },
+        {
+            "from": 83.39,
+            "to": 83.54,
+            "speaker": 0,
+            "confidence": 0.385,
+            "final": false
+        },
+        {
+            "from": 83.54,
+            "to": 84.08,
+            "speaker": 0,
+            "confidence": 0.385,
+            "final": false
+        },
+        {
+            "from": 84.08,
+            "to": 84.37,
+            "speaker": 0,
+            "confidence": 0.385,
+            "final": false
+        },
+        {
+            "from": 84.37,
+            "to": 85.16,
+            "speaker": 0,
+            "confidence": 0.385,
+            "final": false
+        },
+        {
+            "from": 86.94,
+            "to": 87.25,
+            "speaker": 1,
+            "confidence": 0.407,
+            "final": false
+        },
+        {
+            "from": 87.25,
+            "to": 87.87,
+            "speaker": 1,
+            "confidence": 0.407,
+            "final": false
+        },
+        {
+            "from": 88.31,
+            "to": 88.77,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 88.77,
+            "to": 89.29,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 89.29,
+            "to": 89.52,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 89.52,
+            "to": 89.65,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 89.65,
+            "to": 89.91,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 89.91,
+            "to": 90.34,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 90.34,
+            "to": 90.5,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 90.5,
+            "to": 90.89,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 90.89,
+            "to": 91.06,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 91.06,
+            "to": 91.28,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 91.28,
+            "to": 91.72,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 91.72,
+            "to": 91.84,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 91.84,
+            "to": 92.14,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 92.14,
+            "to": 92.29,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 92.29,
+            "to": 93.03,
+            "speaker": 2,
+            "confidence": 0.509,
+            "final": false
+        },
+        {
+            "from": 93.06,
+            "to": 93.33,
+            "speaker": 2,
+            "confidence": 0.588,
+            "final": false
+        },
+        {
+            "from": 93.33,
+            "to": 94.06,
+            "speaker": 2,
+            "confidence": 0.588,
+            "final": false
+        },
+        {
+            "from": 94.06,
+            "to": 94.47,
+            "speaker": 2,
+            "confidence": 0.588,
+            "final": false
+        },
+        {
+            "from": 94.47,
+            "to": 94.6,
+            "speaker": 2,
+            "confidence": 0.588,
+            "final": false
+        },
+        {
+            "from": 94.6,
+            "to": 95.06,
+            "speaker": 2,
+            "confidence": 0.588,
+            "final": false
+        },
+        {
+            "from": 95.06,
+            "to": 95.17,
+            "speaker": 2,
+            "confidence": 0.588,
+            "final": false
+        },
+        {
+            "from": 95.2,
+            "to": 95.47,
+            "speaker": 2,
+            "confidence": 0.526,
+            "final": false
+        },
+        {
+            "from": 95.47,
+            "to": 95.75,
+            "speaker": 2,
+            "confidence": 0.526,
+            "final": false
+        },
+        {
+            "from": 95.75,
+            "to": 96.27,
+            "speaker": 2,
+            "confidence": 0.526,
+            "final": false
+        },
+        {
+            "from": 96.39,
+            "to": 96.53,
+            "speaker": 2,
+            "confidence": 0.485,
+            "final": false
+        },
+        {
+            "from": 96.53,
+            "to": 97.29,
+            "speaker": 2,
+            "confidence": 0.485,
+            "final": false
+        },
+        {
+            "from": 99.91,
+            "to": 100.25,
+            "speaker": 2,
+            "confidence": 0.57,
+            "final": false
+        },
+        {
+            "from": 100.25,
+            "to": 100.77,
+            "speaker": 2,
+            "confidence": 0.57,
+            "final": false
+        },
+        {
+            "from": 101.4,
+            "to": 101.89,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 101.89,
+            "to": 102.19,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 102.19,
+            "to": 102.56,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 102.56,
+            "to": 102.8,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 102.8,
+            "to": 103.25,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 103.25,
+            "to": 103.37,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 103.37,
+            "to": 103.48,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 103.48,
+            "to": 103.92,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 103.92,
+            "to": 104.21,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 104.21,
+            "to": 104.74,
+            "speaker": 2,
+            "confidence": 0.636,
+            "final": false
+        },
+        {
+            "from": 104.77,
+            "to": 104.92,
+            "speaker": 2,
+            "confidence": 0.631,
+            "final": false
+        },
+        {
+            "from": 104.92,
+            "to": 105.08,
+            "speaker": 2,
+            "confidence": 0.631,
+            "final": false
+        },
+        {
+            "from": 105.08,
+            "to": 105.79,
+            "speaker": 2,
+            "confidence": 0.631,
+            "final": false
+        },
+        {
+            "from": 105.79,
+            "to": 106.04,
+            "speaker": 2,
+            "confidence": 0.631,
+            "final": false
+        },
+        {
+            "from": 106.07,
+            "to": 106.33,
+            "speaker": 2,
+            "confidence": 0.649,
+            "final": false
+        },
+        {
+            "from": 106.33,
+            "to": 106.86,
+            "speaker": 2,
+            "confidence": 0.649,
+            "final": false
+        },
+        {
+            "from": 106.86,
+            "to": 107.13,
+            "speaker": 2,
+            "confidence": 0.649,
+            "final": false
+        },
+        {
+            "from": 107.13,
+            "to": 107.22,
+            "speaker": 2,
+            "confidence": 0.649,
+            "final": false
+        },
+        {
+            "from": 107.22,
+            "to": 107.63,
+            "speaker": 2,
+            "confidence": 0.649,
+            "final": false
+        },
+        {
+            "from": 107.63,
+            "to": 108.04,
+            "speaker": 2,
+            "confidence": 0.649,
+            "final": false
+        },
+        {
+            "from": 108.25,
+            "to": 108.85,
+            "speaker": 2,
+            "confidence": 0.613,
+            "final": false
+        },
+        {
+            "from": 108.85,
+            "to": 109.36,
+            "speaker": 2,
+            "confidence": 0.613,
+            "final": false
+        },
+        {
+            "from": 109.56,
+            "to": 109.67,
+            "speaker": 2,
+            "confidence": 0.653,
+            "final": false
+        },
+        {
+            "from": 109.67,
+            "to": 110.07,
+            "speaker": 2,
+            "confidence": 0.653,
+            "final": false
+        },
+        {
+            "from": 110.07,
+            "to": 110.23,
+            "speaker": 2,
+            "confidence": 0.653,
+            "final": false
+        },
+        {
+            "from": 110.23,
+            "to": 110.52,
+            "speaker": 2,
+            "confidence": 0.653,
+            "final": false
+        },
+        {
+            "from": 110.55,
+            "to": 111.11,
+            "speaker": 2,
+            "confidence": 0.624,
+            "final": false
+        },
+        {
+            "from": 111.14,
+            "to": 111.32,
+            "speaker": 2,
+            "confidence": 0.594,
+            "final": false
+        },
+        {
+            "from": 111.32,
+            "to": 111.59,
+            "speaker": 2,
+            "confidence": 0.594,
+            "final": false
+        },
+        {
+            "from": 111.59,
+            "to": 111.77,
+            "speaker": 2,
+            "confidence": 0.594,
+            "final": false
+        },
+        {
+            "from": 111.77,
+            "to": 112.17,
+            "speaker": 2,
+            "confidence": 0.594,
+            "final": false
+        },
+        {
+            "from": 112.89,
+            "to": 113.1,
+            "speaker": 2,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 113.1,
+            "to": 113.6,
+            "speaker": 2,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 113.6,
+            "to": 113.72,
+            "speaker": 2,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 113.72,
+            "to": 114.05,
+            "speaker": 2,
+            "confidence": 0.497,
+            "final": false
+        },
+        {
+            "from": 114.1,
+            "to": 114.3,
+            "speaker": 2,
+            "confidence": 0.647,
+            "final": false
+        },
+        {
+            "from": 114.3,
+            "to": 115.19,
+            "speaker": 2,
+            "confidence": 0.647,
+            "final": false
+        },
+        {
+            "from": 115.22,
+            "to": 115.63,
+            "speaker": 2,
+            "confidence": 0.653,
+            "final": false
+        },
+        {
+            "from": 115.63,
+            "to": 116.47,
+            "speaker": 2,
+            "confidence": 0.653,
+            "final": false
+        },
+        {
+            "from": 118.67,
+            "to": 119.13,
+            "speaker": 1,
+            "confidence": 0.425,
+            "final": false
+        },
+        {
+            "from": 119.13,
+            "to": 119.76,
+            "speaker": 1,
+            "confidence": 0.425,
+            "final": false
+        },
+        {
+            "from": 119.76,
+            "to": 120.46,
+            "speaker": 1,
+            "confidence": 0.425,
+            "final": false
+        },
+        {
+            "from": 121.15,
+            "to": 121.63,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 121.63,
+            "to": 122.21,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 122.21,
+            "to": 122.31,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 122.31,
+            "to": 122.71,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 122.74,
+            "to": 123.29,
+            "speaker": 1,
+            "confidence": 0.448,
+            "final": false
+        },
+        {
+            "from": 123.29,
+            "to": 123.92,
+            "speaker": 1,
+            "confidence": 0.448,
+            "final": false
+        },
+        {
+            "from": 123.95,
+            "to": 124.07,
+            "speaker": 1,
+            "confidence": 0.459,
+            "final": false
+        },
+        {
+            "from": 124.07,
+            "to": 124.49,
+            "speaker": 1,
+            "confidence": 0.459,
+            "final": false
+        },
+        {
+            "from": 124.49,
+            "to": 124.86,
+            "speaker": 1,
+            "confidence": 0.459,
+            "final": false
+        },
+        {
+            "from": 124.86,
+            "to": 125.01,
+            "speaker": 1,
+            "confidence": 0.459,
+            "final": false
+        },
+        {
+            "from": 125.01,
+            "to": 125.22,
+            "speaker": 1,
+            "confidence": 0.459,
+            "final": false
+        },
+        {
+            "from": 125.22,
+            "to": 125.58,
+            "speaker": 1,
+            "confidence": 0.459,
+            "final": false
+        },
+        {
+            "from": 125.61,
+            "to": 125.72,
+            "speaker": 1,
+            "confidence": 0.442,
+            "final": false
+        },
+        {
+            "from": 125.72,
+            "to": 126.19,
+            "speaker": 1,
+            "confidence": 0.442,
+            "final": false
+        },
+        {
+            "from": 126.19,
+            "to": 126.66,
+            "speaker": 1,
+            "confidence": 0.442,
+            "final": false
+        },
+        {
+            "from": 126.66,
+            "to": 127.12,
+            "speaker": 1,
+            "confidence": 0.442,
+            "final": false
+        },
+        {
+            "from": 127.12,
+            "to": 127.24,
+            "speaker": 1,
+            "confidence": 0.442,
+            "final": false
+        },
+        {
+            "from": 127.24,
+            "to": 128.16,
+            "speaker": 1,
+            "confidence": 0.442,
+            "final": false
+        },
+        {
+            "from": 130.14,
+            "to": 130.65,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 130.65,
+            "to": 131.07,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 131.07,
+            "to": 131.62,
+            "speaker": 1,
+            "confidence": 0.441,
+            "final": false
+        },
+        {
+            "from": 132.13,
+            "to": 132.55,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 132.55,
+            "to": 133,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 133,
+            "to": 133.73,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 133.73,
+            "to": 134.19,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 134.19,
+            "to": 134.33,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 134.33,
+            "to": 134.71,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 134.71,
+            "to": 134.87,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 134.87,
+            "to": 135.4,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 135.4,
+            "to": 135.83,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 135.83,
+            "to": 136.25,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 136.25,
+            "to": 136.76,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 136.76,
+            "to": 136.93,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 136.93,
+            "to": 137.37,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 137.37,
+            "to": 137.47,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 137.47,
+            "to": 138.02,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 138.05,
+            "to": 138.18,
+            "speaker": 2,
+            "confidence": 0.289,
+            "final": false
+        },
+        {
+            "from": 138.18,
+            "to": 138.61,
+            "speaker": 2,
+            "confidence": 0.289,
+            "final": false
+        },
+        {
+            "from": 138.61,
+            "to": 138.87,
+            "speaker": 2,
+            "confidence": 0.289,
+            "final": false
+        },
+        {
+            "from": 138.87,
+            "to": 139.65,
+            "speaker": 2,
+            "confidence": 0.289,
+            "final": false
+        },
+        {
+            "from": 139.91,
+            "to": 140.14,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 140.14,
+            "to": 140.64,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 140.64,
+            "to": 140.81,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 140.81,
+            "to": 141.42,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 141.42,
+            "to": 141.58,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 141.58,
+            "to": 141.79,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 141.79,
+            "to": 142.16,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 142.16,
+            "to": 142.27,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 142.27,
+            "to": 142.96,
+            "speaker": 1,
+            "confidence": 0.431,
+            "final": false
+        },
+        {
+            "from": 143.12,
+            "to": 143.69,
+            "speaker": 2,
+            "confidence": 0.639,
+            "final": false
+        },
+        {
+            "from": 146.06,
+            "to": 146.92,
+            "speaker": 1,
+            "confidence": 0.449,
+            "final": false
+        },
+        {
+            "from": 146.92,
+            "to": 147.54,
+            "speaker": 1,
+            "confidence": 0.449,
+            "final": false
+        },
+        {
+            "from": 148.16,
+            "to": 148.6,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 148.6,
+            "to": 148.89,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 148.89,
+            "to": 149.21,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 149.21,
+            "to": 149.28,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 149.28,
+            "to": 149.72,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 149.72,
+            "to": 149.93,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 149.93,
+            "to": 150.05,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 150.05,
+            "to": 150.58,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 150.58,
+            "to": 150.95,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 150.95,
+            "to": 151.07,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 151.07,
+            "to": 151.14,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 151.14,
+            "to": 151.55,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 151.55,
+            "to": 151.93,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 151.93,
+            "to": 152.02,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 152.02,
+            "to": 152.57,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 152.57,
+            "to": 152.88,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 152.88,
+            "to": 153.19,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 153.19,
+            "to": 153.85,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 153.85,
+            "to": 154.54,
+            "speaker": 1,
+            "confidence": 0.463,
+            "final": false
+        },
+        {
+            "from": 154.76,
+            "to": 155.3,
+            "speaker": 2,
+            "confidence": 0.32,
+            "final": false
+        },
+        {
+            "from": 155.3,
+            "to": 155.63,
+            "speaker": 2,
+            "confidence": 0.32,
+            "final": false
+        },
+        {
+            "from": 155.63,
+            "to": 156.12,
+            "speaker": 2,
+            "confidence": 0.32,
+            "final": false
+        },
+        {
+            "from": 156.15,
+            "to": 156.4,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 156.4,
+            "to": 156.82,
+            "speaker": 1,
+            "confidence": 0.45,
+            "final": false
+        },
+        {
+            "from": 157.06,
+            "to": 157.52,
+            "speaker": 1,
+            "confidence": 0.444,
+            "final": false
+        },
+        {
+            "from": 157.52,
+            "to": 157.97,
+            "speaker": 1,
+            "confidence": 0.444,
+            "final": false
+        },
+        {
+            "from": 157.97,
+            "to": 158.12,
+            "speaker": 1,
+            "confidence": 0.444,
+            "final": false
+        },
+        {
+            "from": 158.12,
+            "to": 158.62,
+            "speaker": 1,
+            "confidence": 0.444,
+            "final": false
+        },
+        {
+            "from": 158.62,
+            "to": 158.73,
+            "speaker": 1,
+            "confidence": 0.444,
+            "final": false
+        },
+        {
+            "from": 158.73,
+            "to": 159.5,
+            "speaker": 1,
+            "confidence": 0.444,
+            "final": false
+        },
+        {
+            "from": 159.79,
+            "to": 160.24,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 160.24,
+            "to": 160.62,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 160.62,
+            "to": 161.26,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 161.26,
+            "to": 161.36,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 161.36,
+            "to": 161.76,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 161.76,
+            "to": 161.86,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 161.86,
+            "to": 162.34,
+            "speaker": 1,
+            "confidence": 0.456,
+            "final": false
+        },
+        {
+            "from": 163.04,
+            "to": 163.57,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 163.57,
+            "to": 163.95,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 163.95,
+            "to": 164.53,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 164.53,
+            "to": 165.06,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 165.06,
+            "to": 165.17,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 165.17,
+            "to": 165.73,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 165.73,
+            "to": 165.82,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 165.82,
+            "to": 166.27,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 166.27,
+            "to": 166.69,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 166.69,
+            "to": 166.96,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": false
+        },
+        {
+            "from": 166.96,
+            "to": 167.36,
+            "speaker": 1,
+            "confidence": 0.461,
+            "final": true
+        }
+    ]
+}

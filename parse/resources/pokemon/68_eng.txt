@@ -1,0 +1,94 @@
+
+
+<p class="c_family_e c_weight">
+The mobile game 'Pokémon GO’ has been a huge hit throughout the world since its release in the United States, Australia, and New Zealand. What was once a fantasy for Pokémon fanatics is now a stunning reality, as players get to catch Pokémon in real life.
+</p>
+
+<ul class="c_family_e">
+  <li><b>What is Pokémon GO?:</b> Pokémon Go follows the basic premise of the Japanese animated series and allows players to catch, train, and compete with “pocket monsters” on their phones.</li>
+  <ul class="c_family_e">
+    <li><b>Raising Pokémon:</b> The gamer first gives the app access to the smartphone’s map capabilities. Then, the gamer walks through various streets and terrain in order to find and catch Pokémon that appear around them.</li>
+    <li><b>Team Battles:</b> The gamer is a part of one of three global teams and competes to expand the team’s territories throughout the world.</li>
+  </ul>
+  <li><b>The Game’s Differentiating Factor:</b> The game combines elements of GPS/navigation, treasure hunting/ghost busting, Tamagotchi, and Clash of Clans. </li>
+  <ul class="c_family_e">
+    <li><b>Navigation:</b> The game proceeds through an actual electronic map (e.g., Google Maps). The map indicates the player’s current location, the locations of different “Poké Stops” where players are supplied with essential items, and the locations of several Pokémon Gyms, where players must battle with rivaling teams to conquer the region.</li>
+    <li><b>Treasure Hunt:</b> The Poké Stops consist of actual landmarks, from buildings to sculptures to churches, and a visit may give the player access to items like Pokéballs for free.</li>
+    <ul class="c_family_e">
+      <b>&rArr;</b> In the case of Stanford’s Business School building, there are 5 to 6 Poké Stops (e.g., the library, 4 sculptures, the entrance to a large lecture hall) and players can refill on items when they visit these areas.
+    </ul>
+    <li><b>Ghost Busters:</b> 133 different Pokémon populate the map and catching the same Pokémon over and over again will lead to the Pokémon’s evolution.</li>
+    <ul class="c_family_e">
+      <b>&rArr;</b> Again, in the case of Stanford’s Business School building, roughly ten different Pokémon can be found, and moving to a different area will enable the player to catch Pokémon they haven’t seen before (e.g., You can find water-type Pokémon near fountains.)
+    </ul>
+    <li><b>Tamagotchi:</b> Pokémon GO is similar to the once famous digital pet game Tamagotchi in that the player must login to the game regularly in order to strengthen their Pokémon. However, Pokémon GO differs from Tamagotchi in that the former game allows the player to train multiple “pets” at once.</li>
+    <li><b>Clash of Clans:</b> Like Clash of Clans, Pokémon GO unites players by forming teams (Team Instinct, Team Mystic, Team Valor) and communities, and it also enables the player to further team goals by winning battles and expanding the team’s territories in the Gyms.</li>
+  </ul>
+  <li><b>Launch:</b> After its beta test on March, 2016, the game was released on July 6 in the US, Australia, and New Zealand. The company plans to launch the game in other countries once the server stabilizes and initial program bugs are addressed.</li>
+  <li><b>The outcome so far:</b> Less than a week after its release, the US alone hit 7.5M downloads via iOS and Android. In terms of the DAU, Pokémon GO has exceeded Twitter and made $1.6M/day solely on in-app-purchases.</li>
+  <li><b>Contributors:</b> Nintendo, Pokémon Company, and Niantic are the co-developers of Pokémon GO, and the game is managed by Nintendo and Google.</li>
+  <ul class="c_family_e">
+    <li><b>Nintendo:</b> Though Nintendo was one of the world’s greatest game console and is the creator of such iconic game titles as Super Mario, the company had recently been floundering from the stagnant console/mobile game market.</li>
+    <li><b>Pokémon Company:</b> This is the company that has ownership over all licenses related to any and all characters associated with the Pokémon game. It was founded through a joint investment of Nintendo, Game Freak, and Creatures. Its 2014 retail sales reached $2B. </li>
+    <li><b>Niantic:</b> Niantic is an augmented reality game/service producer. It was founded in 2010 by John Hanke, who was then the VP of Product Management for Google’s “Geo” division. In 2015, Google released its plans to become a part of a parent company, Alphabet, Hanke proceeded to become involved with Niantic and acquired Series A funding ($20M~$30M) from Google, Nintendo, and Pokémon Company.</li>
+  </ul>
+</ul>
+<p class="c_family_e c_weight">
+'Pokémon Go' followed the formula of past hits in the mobile game industry and has been the source of excitement for its users.
+</p>
+<ul class="c_family_e">
+    <li><b>Easy to start, difficult to level up &rarr;</b>  Much like Clash of Clans, Candy Crush, and other popular smartphone games, Pokémon Go is easy in the beginning but the level of difficulty increases with every level.</li>
+  <ul class="c_family_e">
+    <li>The game is set up such that the rules are incredibly easy to learn (i.e., catching a Pokémon requires a simple swipe on the screen).</li>
+  </ul>
+    <li><b>Freemium &rarr;</b>  Like the most popular smartphone games and apps of recent, Pokémon Go delivers on quality for free but charges for items and premium upgrades.</li>
+  <ul class="c_family_e">
+      <li>It is totally possible to enjoy the game by acquiring items solely at Poké Stops, but in-app-purchases enable faster level-ups.</li>
+  </ul>
+    <li><b>Location-based &rarr;</b>  Like Uber, AirBnB, Yelp, and other globally successful apps, Pokémon Go helpfully provides the exact locations of an area’s landmarks.</li>
+  <ul class="c_family_e">
+      <li>It is easy to identify the locations of a region’s landmarks because they are marked as Poké Stops. The Poké Stops also have an additional element fun in that they provide a landmark’s photo and description for visitors.</li>
+  </ul>
+    <li><b>Social &rarr;</b>  Because this is a game that will soon be available to people all around the world, Pokémon Go will connect users regardless of location and help form communities that communicate, cooperate, and compete in the virtual world.</li>
+  <ul class="c_family_e">
+      <li>Pokémon Go divides its users into 3 teams and sets up the plot so that each team must compete with the other two. Poké Stops and Pokegyms gather people, and they create spaces where players can befriend one another (Twitter is filled with photos of people socializing at Poké Stops and Pokegym).</li>
+  </ul>
+</ul>
+<p class="c_family_e c_weight">
+Pokémon Go is unlike other smartphone games in that it utilizes world-class technology, data analytics, and IP (character) all for the sake of entertainment.
+</p>
+<ul class="c_family_e">
+<li><b>GPS, location-based-service:</b> the game maps helps users find Poké Stops by mapping them out on exact locations and placing them around actual landmarks.</li>
+<li><b>Augmented reality:</b> the app syncs with the smartphone’s camera and screen capabilities in order to display Pokémon characters as if they were directly in front of the player.</li>
+<li><b>Data analytics:</b> using the data collected through Google Map, Pokémon Go can pinpoint the most frequented locations in an area and make that the location of Pokegyms.</li>
+<li><b>IP (character):</b> it’s incredibly entertaining to encounter, somewhat realistically, up to 133 characters from the original Pokémon series (e.g., Pikachu). We predict that Nintendo’s will put to good use their numerous characters (e.g., Mario) in the near future.</li>
+</ul>
+<p class="c_family_e c_weight">
+Pokémon Go goes beyond your average, big-hitting smartphone game. It is even being valuated in the ranks of such platforms as Google and Facebook.
+</p>
+<ul class="c_family_e">
+<li><b>Examples of platform expansion possibilities:</b> the game could link with a travel app in order to encourage players to visit far off landmarks for unique/difficult evolutions. The game could add various other gaming characters into the plotline. Pokémon Go could also collaborate with Uber so that the car could become the actual Poké Stop. Finally, Pokémon Go could work with famous retail stores/department stores so that purchasing items could boost the levels of Pokémon.</li>
+<li><b>Assessing Pokémon Go’s Value:</b> Since the release of the game, Nintendo’s stock price rose by 24.5% (approximately $6B  the price of Tencent’s acquisition of Supercell) and the game has the potential to be worth many billion dollars more if it alters its platform.</li>
+</ul>
+<p class="c_family_e c_weight">
+The Pokémon Go craze reflects a recent trend among IT & high tech industries involving reviving Japan, the US, and China.
+</p>
+<ul class="c_family_e">
+<li><b>Japanese revival:</b> Toyota is once again strengthening its position in the automobile industry by introducing electric/hybrid vehicles. Japan also is set to release more electronic products through Sony/Nintendo.</li>
+<li><b>US general dominance:</b> companies like Google, Facebook, Apple, and Amazon have not only conquered the platform/data/server market, but they also reliably produce high quality services for affordable prices. </li>
+<li><b>A Chinese “tsunami”:</b> China has acquired world-renowned companies like Supercell and Blizzard and has been aggressively investing into IT bigwigs like Lyft and Snapchat, setting the US and competing countries on edge.</li>
+</ul>
+<p class="c_family_e c_weight">
+Finally, the success of these three countries reminds Korea of its own position in the IT industry and forces Korea to think of ways to overcome its hiatus.
+</p>
+<ul class="c_family_e">
+<li>Due to limitations imposed by regulations, global platforms are unable to provide their services fully to Korea (e.g., Google Maps has limited functionality in Korea). However, this stifles the progress of Korean start-ups by preventing an optimal multination collaboration.</li>
+<li>Korean IT platforms have limited API sharing, does not have global coverage, and focuses on expanding national businesses rather than on expanding on a global scale. Thus, the Korean companies are losing their global competitiveness.</li>
+<li>In this regard, we have yet to see an IT-version of the “Miracle on Han River” (the 1960s birth of Korea’s most powerful companies like Samsung and Hyundai).</li>
+</ul>
+<p class="c_family_e c_weight">
+What are the key elements of Pokémon Go’s popularity? What enabled Pokémon Go to have its competitive edge? What should Korean gaming/IT services do in order to keep up with the global market?
+</p>
+<p class="c_family_e c_weight">
+Please take this time to discuss Pokémon Go and its popularity with your Ringle Tutor.
+</p>
